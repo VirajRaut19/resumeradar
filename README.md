@@ -36,6 +36,7 @@ ResumeRadar is a full-stack AI application that analyzes how well your resume ma
 
 ## 🏗️ Architecture
 
+![Architecture](architecture.png)
 ```
 Browser (Next.js — port 3000)
         ↕ REST API
